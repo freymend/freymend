@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Frey's GitHub stats](https://github-readme-stats.vercel.app/api?username=freymondz&show_icons=true)
+
 <!--
 **freymondz/freymondz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
